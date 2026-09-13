@@ -1,0 +1,27 @@
+scripts/flashing/eva_ramboot.py
+  s_829436a00a4ad1::t_da7e45e2660db9 60-62,76-78
+  s_829436a00a4ad1::t_227abf0c55b882 83-84
+  s_829436a00a4ad1::t_c9c8b11893e167 4-6,8,11,19-39,63-75,105-107
+  s_829436a00a4ad1::t_ecaba760048be9 79-82
+  s_829436a00a4ad1::t_cd4f93ac331fda 12-14
+  s_829436a00a4ad1::t_ca6c5a40f9fb86 43-59
+  s_829436a00a4ad1::t_14cac2a583be6b 15
+  s_829436a00a4ad1::t_10496415198296 16-18,40-42
+  s_829436a00a4ad1::t_69f5233541a7c0 124-133
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "59f2e6661002a09f1a7b654491bd309fb1143b04",
+  "prompts": {},
+  "sessions": {
+    "s_829436a00a4ad1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "610b035c-60c7-4e1e-b675-8392cf2e2fd1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Darko Palic <darko.palic@xenovation.com>"
+    }
+  }
+}
