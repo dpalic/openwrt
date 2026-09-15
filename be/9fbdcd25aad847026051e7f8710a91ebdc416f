@@ -1,0 +1,19 @@
+.gitignore
+  s_829436a00a4ad1::t_f1c12437f93c4f 38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "be9fbdcd25aad847026051e7f8710a91ebdc416f",
+  "prompts": {},
+  "sessions": {
+    "s_829436a00a4ad1": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "610b035c-60c7-4e1e-b675-8392cf2e2fd1",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Darko Palic <darko.palic@xenovation.com>"
+    }
+  }
+}
